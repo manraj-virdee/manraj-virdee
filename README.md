@@ -3,7 +3,7 @@
 AI Engineer building RAG and LLM applications.
 
 ## 🚀 Projects
-- Financial RAG App: https://financial-rag-api.streamlit.app/
+- Financial RAG App: https://rag-app.manrajvirdee.dev
 
 ## 🧠 Skills
 - Python
@@ -14,4 +14,3 @@ AI Engineer building RAG and LLM applications.
 ## 🌐 Links
 - Portfolio: https://manrajvirdee.dev
 - GitHub: https://github.com/manrajvirdee
-- LinkedIn: (add yours)
