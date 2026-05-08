@@ -13,4 +13,3 @@ AI Engineer building RAG and LLM applications.
 
 ## 🌐 Links
 - Portfolio: https://manrajvirdee.dev
-- GitHub: https://github.com/manrajvirdee
